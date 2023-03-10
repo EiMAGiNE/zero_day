@@ -1,1 +1,1 @@
-ssh Darwin
+["Darwin"]
